@@ -11,7 +11,7 @@ This Verilog module implements a 5-stage pipelined MIPS32 processor that can exe
 - Write Back (WB): Writes results back to the register file.
 
 ## Block Diagram
-
+![Image](https://github.com/user-attachments/assets/5381e222-8cc4-4ed0-bad5-1f6448ec2d54)
 
 ## Simulation Results
 <img width="1031" height="302" alt="Image" src="https://github.com/user-attachments/assets/87291aee-d3bf-4698-90e0-824440d64986" />
